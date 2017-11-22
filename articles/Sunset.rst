@@ -3,7 +3,6 @@
 :author: Lutz Beister
 :lang: de
 :slug: sunset18
-:category: book
 
 Sunset 2018
 ===========

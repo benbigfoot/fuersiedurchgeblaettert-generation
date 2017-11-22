@@ -3,7 +3,6 @@
 :author: Lutz Beister
 :lang: de
 :slug: yachting18
-:category: book
 
 Yachting 2018
 =============

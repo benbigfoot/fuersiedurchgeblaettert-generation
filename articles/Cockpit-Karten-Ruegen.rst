@@ -3,7 +3,6 @@
 :author: Lutz Beister
 :lang: de
 :slug: cockpit-karten-ruegen
-:category: book
 
 Nun etwas Praktisches:
 

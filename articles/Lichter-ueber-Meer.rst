@@ -3,7 +3,6 @@
 :author: Lutz Beister
 :lang: de
 :slug: lichter-ueber-meer18
-:category: book
 
 Leuchtturm-Fans sollten zu
 

@@ -3,7 +3,6 @@
 :author: Lutz Beister
 :lang: de
 :slug: stuermisch-see
-:category: book
 
 Schaut man sich
 

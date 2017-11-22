@@ -3,7 +3,6 @@
 :author: Lutz Beister
 :lang: de
 :slug: ostseemenschen
-:category: book
 
 Anfangs skeptisch, dann immer interessierter las ich
 

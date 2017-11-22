@@ -3,7 +3,6 @@
 :author: Lutz Beister
 :lang: de
 :slug: waves-18
-:category: book
 
 Waves 2018
 ==========

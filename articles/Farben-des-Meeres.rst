@@ -3,7 +3,6 @@
 :author: Lutz Beister
 :lang: de
 :slug: farben-meeres18
-:category: book
 
 Ist die erste Jahreshälfte vorbei, bewerben die Verlage die Kalender für das nächste Jahr. Acht davon möchte ich beispielhaft vorstellen, die alle aus dem Verlag Delius Klasing stammen.
 

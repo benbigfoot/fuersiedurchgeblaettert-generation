@@ -3,7 +3,6 @@
 :author: Lutz Beister
 :lang: de
 :slug: schoenheit-segeln18
-:category: book
 
 Schönheit des Segelns 2018
 ==========================

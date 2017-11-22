@@ -3,7 +3,6 @@
 :author: Lutz Beister
 :lang: de
 :slug: traumschiff-ahoi
-:category: book
 
 Beginnen wir das Update mit
 
